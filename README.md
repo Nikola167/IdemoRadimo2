@@ -6,4 +6,6 @@ Lorem ipsum
 
 1.Open Index.html in your browser
 
-2. have fun
+2. have fun	
+
+3. return 0
